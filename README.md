@@ -5,7 +5,6 @@ Repositorio para trabajos del Diplomado Introducción a la Ciencia de Datos con 
 * Damián Meza
 * Javier Meza
 
-
 ## Módulos
 * [Módulo 1: Introducción a la programación con Python](/modulo1)
 * [Módulo 2: Manejo de datos con Python](/modulo2)
